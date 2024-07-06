@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\repositories\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\repositories\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\repositories\\estorecollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\repositories\\estorecollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\views\\product\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\views\\product\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\views\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\views\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|e:\\cdac\\dotnet\\.net_practice\\onlinestore\\productonlinewebapp\\repositories\\idbmanager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74DFB81-37A4-4829-BC92-802B99013B18}|ProductOnlineWebApp\\ProductOnlineWebApp.csproj|solutionrelative:productonlinewebapp\\repositories\\idbmanager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Services\\IProductService.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductOnlineWebApp\\Services\\IProductService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:26:50.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ProductOnlineWebApp\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T11:59:19.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Views\\Product\\Update.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "ProductOnlineWebApp\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T11:59:50.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Services\\ProductServices.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Services\\ProductServices.cs",
+              "RelativeToolTip": "ProductOnlineWebApp\\Services\\ProductServices.cs",
+              "ViewState": "AQIAAA8AAABAZmZmZmYSwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:31:15.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product\\Insert.cshtml",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Views\\Product\\Insert.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product\\Insert.cshtml",
+              "RelativeToolTip": "ProductOnlineWebApp\\Views\\Product\\Insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T12:00:06.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Repositories\\DBManager.cs",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Repositories\\DBManager.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Repositories\\DBManager.cs",
+              "RelativeToolTip": "ProductOnlineWebApp\\Repositories\\DBManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:30:31.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EStoreCollectionContext.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Repositories\\EStoreCollectionContext.cs",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Repositories\\EStoreCollectionContext.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Repositories\\EStoreCollectionContext.cs",
+              "RelativeToolTip": "ProductOnlineWebApp\\Repositories\\EStoreCollectionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:08:11.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductOnlineWebApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T11:59:33.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Models\\Product.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductOnlineWebApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA7wBgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:07:10.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductOnlineWebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:33:25.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductOnlineWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:31:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Program.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Program.cs",
+              "RelativeToolTip": "ProductOnlineWebApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:39:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductOnlineWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T11:35:28.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product.cshtml",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Views\\Product.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Views\\Product.cshtml",
+              "RelativeToolTip": "ProductOnlineWebApp\\Views\\Product.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T11:32:24.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDBManager .cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Repositories\\IDBManager .cs",
+              "RelativeDocumentMoniker": "ProductOnlineWebApp\\Repositories\\IDBManager .cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\OnlineStore\\ProductOnlineWebApp\\Repositories\\IDBManager .cs",
+              "RelativeToolTip": "ProductOnlineWebApp\\Repositories\\IDBManager .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:29:39.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
