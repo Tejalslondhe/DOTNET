@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\views\\students\\deletebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\views\\students\\deletebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\repositories\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\repositories\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\repositories\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\repositories\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\views\\students\\displayall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\views\\students\\displayall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\views\\students\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\views\\students\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\views\\students\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\views\\students\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|e:\\cdac\\dotnet\\.net_practice\\studentapp\\studentsregistration\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89F923F6-4C53-4523-87B3-BBA620A5872A}|StudentsRegistration\\StudentsRegistration.csproj|solutionrelative:studentsregistration\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Services\\IStudentService.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentsRegistration\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:32:17.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Repositories\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Repositories\\IStudentRepo.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Repositories\\IStudentRepo.cs",
+              "RelativeToolTip": "StudentsRegistration\\Repositories\\IStudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:18:20.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Services\\StudentService.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentsRegistration\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAsAAAAAMzMzMzPzvxcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:32:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Models\\Student.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Models\\Student.cs",
+              "RelativeToolTip": "StudentsRegistration\\Models\\Student.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:42:52.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Repositories\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Repositories\\StudentContext.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Repositories\\StudentContext.cs",
+              "RelativeToolTip": "StudentsRegistration\\Repositories\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:02:51.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentsRegistration\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAEsAAAAAmpmZmZkpwBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:39:16.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteById.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\DeleteById.cshtml",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Views\\Students\\DeleteById.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\DeleteById.cshtml",
+              "RelativeToolTip": "StudentsRegistration\\Views\\Students\\DeleteById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:05:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Repositories\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Repositories\\StudentRepo.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Repositories\\StudentRepo.cs",
+              "RelativeToolTip": "StudentsRegistration\\Repositories\\StudentRepo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:18:47.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DisplayAll.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\DisplayAll.cshtml",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Views\\Students\\DisplayAll.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\DisplayAll.cshtml",
+              "RelativeToolTip": "StudentsRegistration\\Views\\Students\\DisplayAll.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:39:59.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\Insert.cshtml",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Views\\Students\\Insert.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\Insert.cshtml",
+              "RelativeToolTip": "StudentsRegistration\\Views\\Students\\Insert.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T13:40:38.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Program.cs",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Program.cs",
+              "RelativeToolTip": "StudentsRegistration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:47:17.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\Update.cshtml",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Views\\Students\\Update.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\Update.cshtml",
+              "RelativeToolTip": "StudentsRegistration\\Views\\Students\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T13:40:54.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Views\\Students\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentsRegistration\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T21:51:15.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentsRegistration\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\CDAC\\DotNet\\.NET_Practice\\StudentApp\\StudentsRegistration\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentsRegistration\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:01:37.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
